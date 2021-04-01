@@ -1,7 +1,7 @@
 {
     "name":"Dispatch on created and publiced",
     "description":"Send out the dispatch request",
-    "iconName":"logo.png",
+    "iconName":"trigger-dispatch.svg",
     "filePatterns":[
         "dispatch.json"
     ]
